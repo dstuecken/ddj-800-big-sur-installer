@@ -1,6 +1,6 @@
 # Unofficial DDJ-800 Driver Installer for Mac OS Big Sur (10.15)
 
-This is an unofficial installer for the Pioneer DDJ-800 on Mac OS Big sure. This repository is not affiliated with Pioneer. 
+This is an unofficial installer for the Pioneer DDJ-800 on Mac OS Big Sur. This repository is not affiliated with Pioneer. 
 
 ## Disclaimer
 
