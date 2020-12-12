@@ -11,9 +11,10 @@ I am just a user who bought a DDJ-800 yesterday and I wanted to use it under Big
 
 ## Installation Guide
 
-1. Unzip DDJ-800-Installer.zip
-2. Go to Folder DDJ-800-Installer
-3. Open Install
+1. Download the zip [DDJ-800-Installer.zip here](https://github.com/dstuecken/ddj-800-big-sur-installer/raw/main/DDJ-800-Installer.zip)
+2. Unzip DDJ-800-Installer.zip
+3. Go to Folder DDJ-800-Installer
+4. Open Install
 
 ## Notes
 
