@@ -22,5 +22,6 @@ I am just a user who bought a DDJ-800 yesterday and I wanted to use it under Big
 - During installation make sure you open your system settings and go to Security -> Click the lock in top-left corner -> Enter Password -> Click the Allow button
 - Reboot your computer after installation completed
 - After rebooting, you might have to run the installer again
+- Driver is **not** compatible with Apple M1 devices!
 
 **Use at your own risk. I can not guarantee that this installer works on every system!**
